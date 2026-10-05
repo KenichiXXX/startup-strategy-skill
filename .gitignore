@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+business-state.md
+startup-daily.md
+**/business-state.md
+**/startup-daily.md
+private/
+work/
+*.pem
+*.key

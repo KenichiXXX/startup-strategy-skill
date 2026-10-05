@@ -1,0 +1,4 @@
+interface:
+  display_name: "创业公司战略梳理"
+  short_description: "把业务、团队、资金、合作和招聘连成有证据与资源约束的执行计划"
+  default_prompt: "用 $startup-strategy 梳理公司当前战略，结合业务证据、团队容量、现金、合作和招聘，给出取舍与下一阶段行动。"
